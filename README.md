@@ -23,7 +23,7 @@
 * GitHub: https://github.com/liuliu8221-a11y/Catch_Master.git *
 
 
-Reference
+## Reference
 
 Drawing inspiration from the immersive underwater experience in this work, we have used the ocean as the overall backdrop, allowing participants to interact from a ‘pseudo-first-person perspective’, mimicking the sensation of being in the ocean and interacting with marine life.
 https://www.teamlab.art/w/wayofthesea-flying 
@@ -39,12 +39,3 @@ https://www.playstation.com/en-vn/games/dave-the-diver
 
 We used the official blend modes as a reference for colour blending and, based on this, created a feedback effect that makes the fish’s body glow when it is caught.
 https://p5js.org/reference/p5/blendMode 
-
-
-processing step
-
-
-
-
-
-
